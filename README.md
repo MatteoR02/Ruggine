@@ -1,0 +1,2 @@
+# Ruggine
+Rust project
